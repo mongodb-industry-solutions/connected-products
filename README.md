@@ -1,4 +1,4 @@
-# Connected Products ![Realm](https://github.com/realm/realm-cocoa/raw/master/logo.png)  
+# [<img src="doc/images/RealmLogo.png" width="200"/>](https://www.mongodb.com/realm) Connected Products 
 The internet of things is touching every aspect of our lives. MongoDB provides a unique data platform, allowing you to create the next generation customer experience by creating an actionable digital twin of your specific product. Leverage MongoDB Realm & Realm Sync to control you product via mobile apps and web applications on top of the industry leading application data platform.
 
 Realm is a mobile database built with C++ and made available for different devices and environments through a wide variety of [SDKs](https://docs.mongodb.com/realm/sdk/). Realm runs directly inside phones, tablets or wearables and other devices and provides out of the box, bi-directional synchronization with deterministic conflict resolution.
