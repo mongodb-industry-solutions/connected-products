@@ -58,7 +58,7 @@ Then in the previously cloned github repository select ```examples/remotecontrol
 
 <img src="doc/images/select_computer.png" alt="drawing" width="500"/>
 
-Click on the green triangle to start the car app
+Click on the green triangle to start the car app:
 
 <img src="doc/images/run.png" alt="drawing" width="500"/>
 
