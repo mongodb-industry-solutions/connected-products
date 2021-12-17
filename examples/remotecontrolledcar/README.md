@@ -25,7 +25,7 @@ brew install cxx20
 ```
 ### Clone GitHub Repo
 
-Download the github repository: https://github.com/jsflax/realm-cpp-sdk
+Download the github repository: https://github.com/mongodb-industry-solutions/connected-products
 
 Move into the folder and execute the following commands:
 
