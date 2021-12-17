@@ -1,7 +1,6 @@
-![Realm](https://github.com/realm/realm-cocoa/raw/master/logo.png)
-<img src="https://variwiki.com/images/4/4e/Qt_logo.png" alt="drawing" width="100"/>
 
-# MongoDB Realm Controlled Car with QT
+
+# <img src="doc/images/RealmLogo.png" width="200"/> Controlled Car with <img src="https://variwiki.com/images/4/4e/Qt_logo.png" alt="drawing" width="50"/>
 
 This folder contains a small demo application, leveraging the MongoDB Realm (C++ SDK) with QT. It consists of two small independent applications, each using an instance of MongoDB Realm, connected via a MongoDB Atlas cluster as backend. The demo showcases how the state of a device (car, heating system...) can be updated in real time.
 
