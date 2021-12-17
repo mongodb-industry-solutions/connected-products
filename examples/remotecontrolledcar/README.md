@@ -49,15 +49,17 @@ When asked, select components as below:
 
 ## Run the Demo
 
-Once installed, Open QT and select "Projects" then Open:
+Once installed, close the installer and open QT from your applications folder (else it might not ask for permission to access your folders). Then select "Projects" and "Open":
 
 <img src="doc/images/open_proj.png" alt="drawing" width="500"/>
 
-Then in the previously cloned github repository select ```examples/remotecontrolledcar/remotecontrolledcar.pro```. Then select the computer icon at the bottom left:
+Then in the previously cloned github repository select ```examples/remotecontrolledcar/remotecontrolledcar.pro```. 
+
+Then select the computer icon at the bottom left:
 
 <img src="doc/images/select_computer.png" alt="drawing" width="500"/>
 
-Click on the green triangle to start the car app:
+Click on the green triangle to start the car app (If it doesn't run you might have to hit the "Hammer" icon to build it first):
 
 <img src="doc/images/run.png" alt="drawing" width="500"/>
 
