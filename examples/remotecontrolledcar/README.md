@@ -69,3 +69,6 @@ The Controller leverages MongoDB Realm to control the Car, so both apps (control
  
 <img style="width: 0px; height: 0px;" src="https://3eaz4mshcd.execute-api.us-east-1.amazonaws.com/prod?s=https://github.com/realm/realm-cocoa#README.md">
 
+## Add Your Own Atlas Cluster (work in progress)
+
+Stay tuned :-)
