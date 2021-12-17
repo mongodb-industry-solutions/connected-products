@@ -5,6 +5,10 @@ The internet of things is touching every aspect of our lives. MongoDB provides a
 
 Realm is a mobile database built with C++ and made available for different devices and environments through a wide variety of [SDKs](https://docs.mongodb.com/realm/sdk/). Realm runs directly inside phones, tablets or wearables and other devices and provides out of the box, bi-directional synchronization with deterministic conflict resolution.
 
+If you want to get started feel free to jump directly into our demo application: [Connected Car](https://docs.mongodb.com/realm/sdk/)
+
+For more conceptual details continue here. :-)
+
 ## Why Use Realm
 
 * **Intuitive to Developers:** Realm’s object-oriented data model is simple to learn, doesn’t need an ORM, and lets you write less code.
