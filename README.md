@@ -21,7 +21,7 @@ Realm was built for mobile developers, with simplicity in mind. The idiomatic, o
 
 This demo ist built on top of the C++ SDK which suits well into resource constrained environments and embedded systems.
 
-DISCLAIMER: This is not an officially supported C++ SDK! Please reach out to us for further information and details!
+**DISCLAIMER:** This is not a publicly general available C++ SDK! Please reach out to us for further information and details!
 
 ```cpp
 // Define your models like regular structs.
