@@ -5,7 +5,7 @@ Realm is a mobile database built with C++ and made available for different devic
 
 **Interested in a demo app?**
 
-Jump in here: [Connected Car](https://docs.mongodb.com/realm/sdk/)
+Jump in here: [Connected Car](examples/remotecontrolledcar)
 
 For more conceptual details continue here. :-)
 
