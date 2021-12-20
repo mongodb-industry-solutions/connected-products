@@ -71,4 +71,10 @@ The Controller leverages MongoDB Realm to control the Car, so both apps (control
 
 ## Add Your Own Atlas Cluster (work in progress)
 
-Stay tuned :-)
+Follow the official MongoDB documentation for clusters creation: https://docs.atlas.mongodb.com/tutorial/create-new-cluster/
+
+The cluster has been named "ConnectedCar"
+
+Once the cluster is created create a new app from the Realm tab
+
+<img src="doc/images/create_app.png" alt="drawing" width="500"/>
