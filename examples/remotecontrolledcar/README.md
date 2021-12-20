@@ -112,5 +112,5 @@ In the github repository follow the path examples/remotecontrolledcar/car and op
 ``` 
 and replace "car-wsney" with the name of your app. Do the same with the main.cpp file contained in examples/remotecontrolledcar/controller
 
-Once all of the above steps are completed open the Qt build the app and run it
+Once all of the above steps are completed, you can run both applications like here: [Run Demo App](https://github.com/mongodb-industry-solutions/connected-products/tree/main/examples/remotecontrolledcar#run-the-demo)
 
