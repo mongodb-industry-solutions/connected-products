@@ -78,3 +78,27 @@ The cluster has been named "ConnectedCar"
 Once the cluster is created create a new app from the Realm tab
 
 <img src="doc/images/create_app.png" alt="drawing" width="500"/>
+
+We link the app to our cluster
+
+<img src="doc/images/create_app1.png" alt="drawing" width="500"/>
+
+Allow users to log in anonymously
+
+<img src="doc/images/authentication.png" alt="drawing" width="500"/>
+
+"Schema" configuration
+
+Let's now reference our app in the code:
+
+First we need to copy the app id
+
+<img src="doc/images/app_id.png" alt="drawing" width="500"/>
+
+In the github repository follow the path examples/remotecontrolledcar/car and open the file main.cpp, edit line 63
+
+```cpp  
+    auto realm_app = realm::App("car-wsney");
+``` 
+and replace "car-wsney" with the name of your app
+
