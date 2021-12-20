@@ -60,6 +60,8 @@ realm::task<void> task;
 
 realm::task<void> add_car(Car* car)
 {
+    
+    /* To make it work with your specific Realm app please replace car-wsney with your own Realm app id*/
     auto realm_app = realm::App("car-wsney");
     auto user = co_await realm_app.login(realm::App::Credentials::anonymous());
     auto tsr = co_await user.realm<Car>("foo");

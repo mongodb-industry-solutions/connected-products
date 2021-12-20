@@ -87,7 +87,17 @@ Allow users to log in anonymously
 
 <img src="doc/images/authentication.png" alt="drawing" width="500"/>
 
-"Schema" configuration
+On the left side of the page click on Sync then Define data models
+
+<img src="doc/images/define_model.png" alt="drawing" width="500"/>
+
+Fill out the fields as shown remembering to uncheck the boxes and selecting String
+
+<img src="doc/images/foo.png" alt="drawing" width="500"/>
+
+Then selecting the db name
+
+<img src="doc/images/db_name.png" alt="drawing" width="500"/>
 
 Let's now reference our app in the code:
 
@@ -101,4 +111,6 @@ In the github repository follow the path examples/remotecontrolledcar/car and op
     auto realm_app = realm::App("car-wsney");
 ``` 
 and replace "car-wsney" with the name of your app. Do the same with the main.cpp file contained in examples/remotecontrolledcar/controller
+
+Once all of the above steps are completed open the Qt build the app and run it
 
