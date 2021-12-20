@@ -100,5 +100,5 @@ In the github repository follow the path examples/remotecontrolledcar/car and op
 ```cpp  
     auto realm_app = realm::App("car-wsney");
 ``` 
-and replace "car-wsney" with the name of your app
+and replace "car-wsney" with the name of your app. Do the same with the main.cpp file contained in examples/remotecontrolledcar/controller
 

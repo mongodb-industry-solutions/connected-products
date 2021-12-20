@@ -54,7 +54,7 @@
 
 realm::task<void> get_car(Controller& controller)
 {
-    auto realm_app = realm::App("car-hmyal");
+    auto realm_app = realm::App("car-wsney");
     auto user = co_await realm_app.login(realm::App::Credentials::anonymous());
 
     auto tsr = co_await user.realm<Car>("foo");
